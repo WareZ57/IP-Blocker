@@ -11,3 +11,4 @@ Block IPs range in windows Firewall
 - IP ranges are blocked in “full range” mode, meaning from X.Y.1.1 to X.Y.255.255.
 - In case of issues (invalid IP, empty rule name, system error), the script displays clear error messages.
 - The script deletes and recreates the rule on each update to ensure consistency of the blocked IPs.
+<img width="502" height="432" alt="image" src="https://github.com/user-attachments/assets/c6c321b9-bd10-45cc-b102-8e5b21d966eb" />
